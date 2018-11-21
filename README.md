@@ -72,4 +72,6 @@ I didn't find the malwares yet. However, I am gonna keep up the honeypots couple
 
 # Sessions JSON:
 
+/session.json
+
 # Unresolved Issues: NONE
