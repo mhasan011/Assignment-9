@@ -70,6 +70,9 @@ ET SCAN Sipvicious User-Agent Detected (friendly-scanner) (9 times)
 # Malware Collected: 
 I didn't find the malwares yet. However, I am gonna keep up the honeypots couple of hours more. If I find any malware, I'll update here.
 
+
+Update: I found some for snort(honeypot-2) but didn't get dor dionaea yet. I attaced a screenshot.
+
 # Sessions JSON:
 
 /session.json
